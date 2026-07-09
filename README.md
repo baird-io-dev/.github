@@ -1,6 +1,6 @@
----### 
+
 📊 GitHub Stats![Maurice's GitHub Stats](https://vercel.app)![Top Langs](https://vercel.app)
----### 
+
 
 ## 🧪 BAIRD Labs IO (Backend AI Research & Development Lab)
 *An active, personal R&D incubator dedicated to research and developing emerging AI paradigms and building foundational data infrastructure.*
